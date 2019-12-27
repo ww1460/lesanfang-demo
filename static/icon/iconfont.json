@@ -1,0 +1,23 @@
+{
+  "id": "1573844",
+  "name": "了三方",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7766709",
+      "name": "icon_add",
+      "font_class": "icon_add",
+      "unicode": "eb8f",
+      "unicode_decimal": 60303
+    },
+    {
+      "icon_id": "8776842",
+      "name": "search",
+      "font_class": "icon-test",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
